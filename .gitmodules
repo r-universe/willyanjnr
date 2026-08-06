@@ -5,3 +5,6 @@
 [submodule "EstimateBreed"]
 	path = EstimateBreed
 	url = https://github.com/willyanjnr/estimatebreed
+[submodule "trialSizing"]
+	path = trialSizing
+	url = https://github.com/willyanjnr/trialsizing
